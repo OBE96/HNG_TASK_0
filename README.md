@@ -45,7 +45,7 @@ The API will be available at http://localhost:5000/my (or https://localhost:5001
 
 You can test the API using a browser, Postman, or any HTTP client.
 
-API Documentation
+# API Documentation
 
 Endpoint
 * https://localhost:7291/api/HNGTASKZERO
@@ -67,12 +67,8 @@ Example Usage
 2.You will receive the following response:
 
 json
-Copy
-{
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
-}
+![h1](https://github.com/user-attachments/assets/072a62e6-f202-42ca-86f2-78db43a1c47b)
+
 
 BackLink
 https://hng.tech/hire/csharp-developers
