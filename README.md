@@ -24,8 +24,7 @@ Steps to Run the Project
 
 1.  Clone the Repository:
 >>bash   
-git clone https://github.com/OBE96/HNG_TASK_0.git
->>
+git clone https://github.com/OBE96/HNG_TASK_0.git      
 cd my-repo
 
 2.  Build the Project:
@@ -36,9 +35,9 @@ dotnet build
 3. Run the Application:
 Start the API using the following command:
 
->>bash
-dotnet run
-Access the API:
+>>bash     
+dotnet run    
+4. Access the API:
 
 The API will be available at http://localhost:5000/my (or https://localhost:5001/my if using HTTPS).
 
