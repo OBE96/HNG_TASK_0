@@ -22,22 +22,20 @@ Prerequisites
 
 Steps to Run the Project
 
-Clone the Repository:
-bash
-Copy
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+1.  Clone the Repository:
+>>bash   
+git clone https://github.com/OBE96/HNG_TASK_0.git
+cd my-repo
 
-Build the Project:
+2.  Build the Project:
 Run the following command to restore dependencies and build the project:
-bash
-Copy - dotnet build
+>>bash
+dotnet build
 
-Run the Application:
+3. Run the Application:
 Start the API using the following command:
 
-bash
-Copy
+>>bash
 dotnet run
 Access the API:
 
@@ -45,7 +43,7 @@ The API will be available at http://localhost:5000/my (or https://localhost:5001
 
 You can test the API using a browser, Postman, or any HTTP client.
 
-# API Documentation
+# API DOCUMENTATION
 
 Endpoint
 * https://localhost:7291/api/HNGTASKZERO
@@ -70,5 +68,5 @@ json
 ![h1](https://github.com/user-attachments/assets/072a62e6-f202-42ca-86f2-78db43a1c47b)
 
 
-# BackLink
+# BACKLINK
 https://hng.tech/hire/csharp-developers
