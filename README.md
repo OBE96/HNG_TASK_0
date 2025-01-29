@@ -6,11 +6,7 @@ This is a simple ASP.NET Core Web API that returns a JSON response containing an
 Key Features
 
 GET Endpoint: Returns a JSON response with the following structure:
-{
-  "email": "brightelo1@gmail.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/OBE96/HNG_TASK_0.git"
-}
+![h1](https://github.com/user-attachments/assets/94655d5e-8c32-4365-9d17-ecb28c7a217e)
 
 Dynamic Datetime: The current_datetime field is dynamically generated in ISO 8601 format (UTC).
 
