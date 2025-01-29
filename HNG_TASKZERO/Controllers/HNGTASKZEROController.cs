@@ -14,7 +14,7 @@ namespace HNG_TASKZERO.Controllers
             var response = new ResponseModel
             {
                 email = "brightelo1@gmail.com",
-                current_Datetime = DateTime.UtcNow.ToString("o"),
+                current_datetime = DateTime.UtcNow.ToString("o"),
                 github_url = "https://github.com/OBE96/HNG_TASK_0"
             };
             return Ok(response);
