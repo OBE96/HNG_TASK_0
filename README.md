@@ -39,14 +39,14 @@ Start the API using the following command:
 dotnet run    
 4. Access the API:
 
-The API will be available at http://localhost:5000/my (or https://localhost:5001/my if using HTTPS).
+The API will be available at http://localhost:2030/api/HNGTASKZERO .
 
 You can test the API using a browser, Postman, or any HTTP client.
 
 # API DOCUMENTATION
 
 Endpoint
-* https://localhost:7291/api/HNGTASKZERO
+* http://localhost:2030/api/HNGTASKZERO
 
 Request
 * No request body or parameters are required.
@@ -60,7 +60,7 @@ json
 ![h1](https://github.com/user-attachments/assets/9b634503-c132-409f-abda-45d1684f1028)
 
 Example Usage
-1. Send a GET request to http://localhost:5000/my.
+1. Send a GET request to http://localhost:2030/api/HNGTASKZERO
 
 2.You will receive the following response:
 
