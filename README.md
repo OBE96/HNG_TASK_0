@@ -25,11 +25,12 @@ Steps to Run the Project
 1.  Clone the Repository:
 >>bash   
 git clone https://github.com/OBE96/HNG_TASK_0.git
+>>
 cd my-repo
 
 2.  Build the Project:
 Run the following command to restore dependencies and build the project:
->>bash
+>>bash     
 dotnet build
 
 3. Run the Application:
