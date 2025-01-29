@@ -13,7 +13,7 @@ Key Features
 
 *CORS Support: The API is configured to allow requests from all origins by default. You can customize the CORS policy to restrict access to specific origins if needed.
 
-SETUP INSTRUCTION
+# SETUP INSTRUCTION
 
 Follow these steps to set up and run the project locally.
 
